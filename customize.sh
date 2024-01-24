@@ -59,5 +59,5 @@ git clone --depth=1 https://github.com/sbwml/luci-app-alist package/luci-app-ali
 git_sparse_clone main https://github.com/linkease/istore-ui app-store-ui
 git_sparse_clone main https://github.com/linkease/istore luci
 
-./scripts/feeds update -a
-./scripts/feeds install -a
+#./scripts/feeds update -a
+#./scripts/feeds install -a
